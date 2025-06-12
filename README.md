@@ -11,5 +11,6 @@
 - Listo para usar con Xdebug
 - Elige fácilmente la carpeta raíz del proyecto
 - Elige el puerto que quieras
+- Con PhpMyAdmin
 - Seguramente se convierta en la aplicación de este tipo más sencilla y útil
 - Completamente gratuita
