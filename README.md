@@ -1,5 +1,5 @@
 # SAPM
-## Servidor Apache con PHP, MariaDB y FileZilla.
+## Servidor Apache con PHP, MariaDB y FileZilla Server.
 
 ### Aplicación gratuita y más fácil de usar que las existentes actualmente como XAMPP, Laragon, WampServer, etc.
 
